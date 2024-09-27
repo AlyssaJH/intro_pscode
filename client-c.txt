@@ -2,3 +2,8 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+- Print 2*X each time a package is scanned, where X equals the total number of packages that have been scanned so far
+- Continue until 2*X=50
+- When 2*X=50, print “The case is full.”
+- Repeat until all packages have been scanned
+- If the final case is not completely filled, print “There are 2*X products in this case. 50-2*X more products can fit in the case."

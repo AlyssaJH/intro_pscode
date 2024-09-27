@@ -2,3 +2,8 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+- Prompt the user to input their coordinates
+- Prompt the user to input the coordinates of where they would like to end up
+- Print “You are Y units north/south of your desired location. Move Y units south/north, and input “Done” when you have done so.”
+- When the user inputs “Done.” Print “You are X units east/west of your desired location. Move X units west/east, and input “Done” when you have done so.”
+- When the user inputs “Done.” print “Congratulations, you have reached your destination! Where would you like to go next?” 

@@ -2,3 +2,9 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+- Randomly generate a number between 1-10
+- Prompt the user to input a number between 1-10
+- If the number that the user input is equal to the randomly generated number, print “Congratulations, you guessed correctly!” 
+- If the number that the user input is NOT equal to the randomly generated number, print “Oh no, you guessed incorrectly!”
+- Repeat until the number has been guessed correctly OR until the user has input 3 incorrect guesses. 
+- Print “The correct number was “x”. Would you like to play again?”
